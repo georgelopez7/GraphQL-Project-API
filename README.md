@@ -1,4 +1,4 @@
-# Projects API (GrapghQL)
+# Projects API (GraphQL)
 ![Group 4](https://github.com/georgelopez7/GraphQL-Project-API/assets/71076769/0d15f00e-40e0-4e0c-baa9-8f9691d0ea45)
 
 ---
