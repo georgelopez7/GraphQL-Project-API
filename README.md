@@ -1,5 +1,5 @@
 # Projects API (GraphQL)
-![Group 4](https://github.com/georgelopez7/GraphQL-Project-API/assets/71076769/0d15f00e-40e0-4e0c-baa9-8f9691d0ea45)
+![Group 4](https://github.com/georgelopez7/GraphQL-Project-API/assets/71076769/adb93690-12d9-474d-8293-7121a8e702b4)
 
 ---
 
@@ -76,7 +76,7 @@ This GraphQL API has two main queries in the **schema.py** file. The first query
 
 All projects are stored in a Mongo database, and the database schema can be seen in the diagram below:
 
-![Blank diagram - Page 1](https://github.com/georgelopez7/GraphQL-Project-API/assets/71076769/5519f0a7-86df-4c5a-8eb4-9eea6e5893d8)
+![Blank diagram - Page 1](https://github.com/georgelopez7/GraphQL-Project-API/assets/71076769/11c06679-6dc2-4d67-b24d-c25b43caac6f)
 
 [Back To The Top](#projects-api-grapghql)
 
